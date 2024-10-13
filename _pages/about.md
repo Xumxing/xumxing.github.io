@@ -30,9 +30,9 @@ Research Interests:
 
   
 # 🎓 Educations 
-- 2020.09--2024.09, <a href="http://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> School of Mathematics, Jilin University, Changchun China.
-- 2017.09--2020.06, <a href="http://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> School of Mathematics, Jilin University, Changchun China.
-- 2013.09--2017.06, <a href="https://www.ybu.edu.cn/"><img class="svg" src="/images/YBU_logo.svg" width="23pt"></a> College of Science, Yanbian University, Yanji China. 
+- 2020.09--2024.09, Ph.D., School of Mathematics, <a href="http://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> Jilin University, Changchun China, supervisor: Prof. [Shi Shaoyun](https://math.jlu.edu.cn/info/1061/9135.htm)
+- 2017.09--2020.06, M.S., School of Mathematics, <a href="http://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> Jilin University, Changchun China, supervisor: Prof. [Shi Shaoyun](https://math.jlu.edu.cn/info/1061/9135.htm)
+- 2013.09--2017.06, B.S., College of Science, <a href="https://www.ybu.edu.cn/"><img class="svg" src="/images/YBU_logo.svg" width="23pt"></a> Yanbian University, Yanji China. 
  
 
 # 📝 Publications 
