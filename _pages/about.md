@@ -27,13 +27,13 @@ My research interest includes:
 
   
 # 🏢 Works 
-- *2024.10 - Now*, <a href="http://ahu.edu.cn/"><img class="svg" src="/images/AHU_logo.svg" width="23pt"></a> School of Mathematics, Anhui University, Hefei China.
+- *2024.10 - Now*, Lecturer, <a href="http://ahu.edu.cn/"><img class="svg" src="/images/AHU_logo.svg" width="23pt"></a> School of Mathematics, Anhui University, Hefei China.
 
   
 # 🎓 Educations 
 - *2020.09 - 2024.09*, <a href="http://jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> School of Mathematics, Jilin University, Changchun China.
 - *2017.09 - 2020.06*, <a href="http://jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> School of Mathematics, Jilin University, Changchun China.
-- *2013.09 - 2017.06*, <a href="https://ybu.edu.cn/"><img class="svg" src="/images/YBU_logo.svg" width="23pt"></a> School of Mathematics, Yanbian University, Yanji China. 
+- *2013.09 - 2017.06*, <a href="https://ybu.edu.cn/"><img class="svg" src="/images/YBU_logo.svg" width="23pt"></a> College of Science, Yanbian University, Yanji China. 
  
 
 # 📝 Publications 
