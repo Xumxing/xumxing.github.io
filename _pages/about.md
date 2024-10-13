@@ -28,13 +28,14 @@ Research Interests:
 # 🏢 Works 
 - 2024.10--Now, Lecturer, <a href="http://ahu.edu.cn/"><img class="svg" src="/images/AHU_logo.svg" width="22pt"></a> School of Mathematics, Anhui University, Hefei China.
 
-  
+<span class='anchor' id='-Educations'></span>
 # 🎓 Educations 
 - 2020.09--2024.09, Ph.D., School of Mathematics, <a href="http://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> Jilin University, Changchun China, supervisor: Prof. [Shi Shaoyun](https://math.jlu.edu.cn/info/1061/9135.htm)
 - 2017.09--2020.06, M.S., School of Mathematics, <a href="http://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> Jilin University, Changchun China, supervisor: Prof. [Shi Shaoyun](https://math.jlu.edu.cn/info/1061/9135.htm)
 - 2013.09--2017.06, B.S., College of Science, <a href="https://www.ybu.edu.cn/"><img class="svg" src="/images/YBU_logo.svg" width="23pt"></a> Yanbian University, Yanji China. 
  
 
+<span class='anchor' id='-Publications'></span>
 # 📝 Publications 
 
 ### English 
@@ -60,6 +61,7 @@ interaction system", Journal of Jilin University(Science Edition), 2019, 57(6): 
   牛艳秋，杨双羚，**许明星**.“一类三波作用模型的不变代数曲面，Hamilton 结构和无穷远动力行为”，吉林大学学报理学版，2019, 57(6): 1333-1338. (中文核心)[[HTML]](http://xuebao.jlu.edu.cn/lxb/CN/Y2019/V57/I06/1333)
 
 
+<span class='anchor' id='-Projects'></span>
 # 📝 Research projects
 
 
@@ -67,6 +69,7 @@ interaction system", Journal of Jilin University(Science Edition), 2019, 57(6): 
 # 🏅 Honors and Awards
 
 
+<span class='anchor' id='-Conferences'></span>
 
 # 💬 Academic conferences
 - 2023, “The 18th Annual Conference of the Committee on Singular Perturbation of the Chinese Mathematical Society”, Changchun, China
