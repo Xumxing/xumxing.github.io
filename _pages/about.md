@@ -74,4 +74,4 @@ interaction system", Journal of Jilin University(Science Edition), 2019, 57(6): 
 
 
 # 🏛️ Social part-time
-  -In 2024, I was invited to become a Reviewer for the American Mathematical Review.
+- In 2024, I was invited to become a Reviewer for the American Mathematical Review.
