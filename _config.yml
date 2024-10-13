@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xu Mingxing"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Jilin University"
+  bio              : "Anhui University"
   location         : "Hefei, Anhui Province, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : xmx20@mails.jlu.edu.cn"xmx20@mails.jlu.edu.cn"
+  googlescholar    : #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
+  email            : "xmx20@mails.jlu.edu.cn"
   researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
