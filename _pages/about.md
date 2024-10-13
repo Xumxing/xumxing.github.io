@@ -21,17 +21,14 @@ I graduated from School of Mechanical Science and Engineering,  Huazhong Univers
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
+- Dynamical Systems and Chaos
+- Integrability
+- Dynamical behavior
 
   
 # 🏢 Works 
 - *2024.10 - Now*, <a href="http://ahu.edu.cn/"><img class="svg" src="/images/AHU_logo.svg" width="23pt"></a> School of Mathematics, Anhui University, Hefei China.
+
   
 # 🎓 Educations 
 - *2020.09 - 2024.09*, <a href="http://jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> School of Mathematics, Jilin University, Changchun China.
@@ -167,8 +164,4 @@ My research interest includes:
 - *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
 
 
-# 🏭 Internships
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
-- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
   
