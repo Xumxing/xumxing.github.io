@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xu Mingxing"
-  avatar           : "xxxx.png"
+  avatar           : "images/xxxx.png"
   bio              : "Anhui University"
   location         : "Hefei, Anhui Province, China"
   employer         : #"Hefei General Machinery Research Institute"
