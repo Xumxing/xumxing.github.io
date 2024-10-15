@@ -36,7 +36,7 @@ Research Interests:
  
 
 <span class='anchor' id='-publications'></span>
-# 📝 Publications 
+# 📑 Publications 
 
 ### English 
 ---
