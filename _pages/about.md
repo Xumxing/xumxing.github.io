@@ -26,7 +26,7 @@ Research Interests:
 
   
 # 🏢 Works 
-- 2024.10--Now, Lecturer, <a href="http://www.ahu.edu.cn/"><img class="svg" src="/images/AHU_logo.svg" width="22pt"></a> School of Mathematics, Anhui University, Hefei China.
+- 2024.10--Now, Lecturer, School of Mathematics, <a href="http://www.ahu.edu.cn/"><img class="svg" src="/images/AHU_logo.svg" width="22pt"></a> Anhui University, Hefei China.
 
 <span class='anchor' id='-Educations'></span>
 # 🎓 Educations 
