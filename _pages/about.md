@@ -76,5 +76,5 @@ interaction system", Journal of Jilin University(Science Edition), 2019, 57(6): 
 - 2019, “Finite dimensional integrable systems in Geometry and Mathematical Physics”，Shanghai, China
 
 
-# 🏛️ Social Appointments
+# 🏛️ Social part-time
 - In 2024, I was invited to become a Reviewer for the American Mathematical Review.
